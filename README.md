@@ -1,5 +1,5 @@
 
-# Birthday Website Template
+# Happy Birthday
 
 This is a simple birthday website template designed to send birthday wishes to friends or loved ones in a creative and interactive way. The template includes features such as confetti animation, a "tap to open" gift box, and a message section.
 
